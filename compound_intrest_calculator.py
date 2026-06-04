@@ -47,7 +47,7 @@ while True :
     #no. of times intrest compounds per year
     while True :
         try:
-            n=float(input("\nEnter number of times interest compounds per year : "))
+            n=int(input("\nEnter number of times interest compounds per year : "))
             if n < 1 :
                 print("\ncompounding frequency can't be less than 1. ")
                 continue
