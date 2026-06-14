@@ -10,7 +10,7 @@ I am a beginner exploring the world of Python. I am using this repository to pra
 
 ---
 
-##Other repos
+## Other repos
     [check here](https://github.com/spiderman-2207/c) to see my ' c ' projects.
 
 
